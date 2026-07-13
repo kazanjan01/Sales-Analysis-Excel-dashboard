@@ -1,5 +1,12 @@
 # 📊 Sales Analysis Dashboard using Microsoft Excel
 
+
+## 📈 Dashboard Preview
+
+![Dashboard](05.Dashboard%20visual.png)
+
+---
+
 ## Project Overview
 
 This project demonstrates an end-to-end sales data analysis workflow using Microsoft Excel. The objective was to transform raw sales data into meaningful business insights through data cleaning, transformation, analysis, and interactive dashboard development.
