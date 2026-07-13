@@ -96,9 +96,18 @@ The dashboard provides insights into:
 
 ---
 
-## Key Business Insights
+## 📈 Key Business Insights
 
-The dashboard enables stakeholders to:
+The sales dashboard provides actionable insights into business performance by enabling users to:
+
+- Monitor total revenue of **$401,412**.
+- Track gross profit of **$68,908** and evaluate overall profitability.
+- Compare revenue across different product categories.
+- Analyze sales performance by sales channel (Direct Sales, Online, and Wholesale).
+- Monitor product quantities sold and Cost of Goods Sold (COGS).
+- Filter results dynamically by Quarter, Category, and Sales Type to support faster business decisions
+
+The dashboard enables stakeholders further to:
 
 - Monitor overall sales performance.
 - Identify top-performing product categories.
